@@ -1,7 +1,5 @@
 # Baby Names Searcher
 
-![Java CI](https://github.com/Computer-Science-Classes/baby-names-searcher/workflows/Java%20CI/badge.svg)
-
 Baby Names Searcher is a Java program that allows you to search for a name in a dataset and view its popularity over the years. The program searches for the names in `names.txt` and `meanings.txt` files and displays a bar chart showing the ranking of the name over the years.
 
 The dataset includes names data from the year 1890 onwards.
